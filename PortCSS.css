@@ -11,10 +11,6 @@ h1,h2,h3 {
 		text-align: center;
 
 	}
-footer
-{
-	display: none;
-}
 	.fade {
 opacity: 0;
 -webkit-transition: opacity 1.25s linear;
@@ -211,14 +207,6 @@ display: inline-block;
  	display: inline-block;
  	height: 360px
  }
-footer
-{
-	width: 100%;
-	background-color: #917260;
-	padding: 30px 0px;
-	text-align: center;
-	display: inline-block;
-}
 #j1{
 	font-size: 1.5em;
 }
